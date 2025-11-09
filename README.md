@@ -1,5 +1,5 @@
 # new repository
-new repo
+new repo.
 
 # add new files
 new files
